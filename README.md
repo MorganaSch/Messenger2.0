@@ -61,11 +61,11 @@ O projeto utiliza o Firebase, portanto, você precisa configurar o Firebase no a
 Basta abrir o arquivo index.html no seu navegador para começar a usar a aplicação.
 
 ## 🎯 Como Usar
-📎Entrar na plataforma:
-📎 Insira seu nome de usuário e clique no botão Entrar para começar.
+- 📎Entrar na plataforma:
+- 📎 Insira seu nome de usuário e clique no botão Entrar para começar.
 
 ## Explorar a plataforma:
-📎Após o login, você poderá explorar a plataforma, adicionar mais mensagens, visualizar interações em tempo real.
+- 📎Após o login, você poderá explorar a plataforma, adicionar mais mensagens, visualizar interações em tempo real.
 
 
 
