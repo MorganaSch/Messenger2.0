@@ -1,10 +1,8 @@
 
 <div align="center">
-<h1>🎨 React Color Gradients🖼️</h1>
+<h1>Messenger 2.0</h1>
    <img src="https://static.wikia.nocookie.net/the-messenger-2018/images/6/6b/Key_Art_1.jpg/revision/latest?cb=20190203082849"  width="800" height="300"/>
 </div> 
-
-# Messenger 2.0
 
 ## 📋 Sobre o Projeto
 
