@@ -33,7 +33,7 @@ A ideia é criar uma plataforma de mensagens simples, mas eficaz, para troca de 
 - **Bootstrap** - Framework para design responsivo e componentes rápidos.
 
 ## 💻 Como Acessar Online
-🔗 **Acesse o jogo aqui:**  
+🔗 **Acesse o site aqui:**  
 👉 [Menssager 2.0](https://morganasch.github.io/Messenger2.0/) 
 
 ## 🚀 Como Executar
